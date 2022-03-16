@@ -27,7 +27,7 @@ Create a function that takes a number as an argument. Add up all the numbers fro
 ____
 # Level 2:
 ## Bitwise Operations
- 	A decimal number can be represented as a sequence of bits.
+A decimal number can be represented as a sequence of bits.
  To illustrate:
      
    	A decimal number can be represented as a sequence of bits.
